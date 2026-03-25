@@ -52,6 +52,6 @@ I'm transitioning into Data Analytics — combining a decade of business intuiti
 
 ## Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash%20Shaw-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/akashshaw524/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash%20Shaw-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/akashshaw524/))
 
 > *"The best analysts aren't just technical — they understand the business. I've lived on both sides of that equation."*
