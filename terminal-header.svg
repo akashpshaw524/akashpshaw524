@@ -1,0 +1,80 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .mono { font-family: 'Courier New', Courier, monospace; }
+
+      .clip1 { animation: type1 1.4s steps(42, end) forwards 0.6s; }
+      .clip2 { animation: type2 1.8s steps(52, end) forwards 2.2s; }
+      .clip3 { animation: type3 1.4s steps(38, end) forwards 4.2s; }
+      .clip4 { animation: type4 0.6s steps(10, end) forwards 5.8s; }
+
+      .cur1 { opacity: 0; animation: showcur 0s forwards 0.6s, hidecur 0s forwards 2.2s; }
+      .cur2 { opacity: 0; animation: showcur 0s forwards 2.2s, hidecur 0s forwards 4.2s; }
+      .cur3 { opacity: 0; animation: showcur 0s forwards 4.2s, hidecur 0s forwards 5.8s; }
+      .cur4-blink { opacity: 0; animation: showcur 0s forwards 6.4s, blink 1s step-end infinite 6.4s; }
+
+      .scanline {
+        stroke-dasharray: 800;
+        stroke-dashoffset: 800;
+        animation: scan 0.8s ease forwards 6.8s;
+      }
+
+      @keyframes type1 { from { width: 0; } to { width: 370px; } }
+      @keyframes type2 { from { width: 0; } to { width: 460px; } }
+      @keyframes type3 { from { width: 0; } to { width: 340px; } }
+      @keyframes type4 { from { width: 0; } to { width: 90px; } }
+
+      @keyframes showcur { to { opacity: 1; } }
+      @keyframes hidecur { to { opacity: 0; } }
+      @keyframes blink { 0%,100% { opacity:1; } 50% { opacity:0; } }
+      @keyframes scan { to { stroke-dashoffset: 0; } }
+    </style>
+
+    <clipPath id="c1"><rect x="48" y="52" height="24" width="0" class="clip1"/></clipPath>
+    <clipPath id="c2"><rect x="48" y="82" height="24" width="0" class="clip2"/></clipPath>
+    <clipPath id="c3"><rect x="48" y="112" height="24" width="0" class="clip3"/></clipPath>
+    <clipPath id="c4"><rect x="48" y="142" height="24" width="0" class="clip4"/></clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="200" fill="#0a0d0a" rx="10"/>
+
+  <!-- Top bar -->
+  <rect width="800" height="36" fill="#111611" rx="10"/>
+  <rect y="20" width="800" height="16" fill="#111611"/>
+
+  <!-- Traffic light dots -->
+  <circle cx="22" cy="18" r="5.5" fill="#ff5f56"/>
+  <circle cx="40" cy="18" r="5.5" fill="#ffbd2e"/>
+  <circle cx="58" cy="18" r="5.5" fill="#27c93f"/>
+
+  <!-- Window title -->
+  <text x="400" y="23" text-anchor="middle" fill="#7a8a7a" font-size="11" class="mono" letter-spacing="1">akashpshaw524 — profile.md</text>
+
+  <!-- Line 1: command -->
+  <text x="48" y="70" font-size="13" class="mono" clip-path="url(#c1)">
+    <tspan fill="#3fb950">$</tspan>
+    <tspan fill="#8b949e"> loading </tspan>
+    <tspan fill="#58a6ff">analyst.profile</tspan>
+    <tspan fill="#8b949e"> --verbose</tspan>
+  </text>
+  <rect class="cur1" x="50" y="57" width="8" height="14" fill="#3fb950"/>
+
+  <!-- Line 2 -->
+  <text x="48" y="100" fill="#3fb950" font-size="13" class="mono" clip-path="url(#c2)">&#x2713;  10 yrs Business Development experience  ...  indexed</text>
+  <rect class="cur2" x="50" y="87" width="8" height="14" fill="#3fb950"/>
+
+  <!-- Line 3 -->
+  <text x="48" y="130" fill="#3fb950" font-size="13" class="mono" clip-path="url(#c3)">&#x2713;  SQL &#xB7; Python &#xB7; Power BI  ...  loaded</text>
+  <rect class="cur3" x="50" y="117" width="8" height="14" fill="#3fb950"/>
+
+  <!-- Line 4: ready prompt -->
+  <text x="48" y="160" font-size="13" class="mono" clip-path="url(#c4)">
+    <tspan fill="#2d5a3d">ready</tspan>
+    <tspan fill="#3fb950"> _</tspan>
+  </text>
+  <rect class="cur4-blink" x="104" y="147" width="8" height="14" fill="#3fb950"/>
+
+  <!-- Scan line sweep -->
+  <line x1="0" y1="182" x2="800" y2="182" stroke="#3fb950" stroke-width="1.5" class="scanline"/>
+</svg>
