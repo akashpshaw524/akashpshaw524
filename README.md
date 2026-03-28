@@ -1,25 +1,16 @@
 <div align="center">
 
-<!-- Terminal boot sequence -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=2000&pause=99999&color=3FB950&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=90&lines=%24+loading+analyst.profile+--verbose;✓+10+years+business+experience+...+indexed;✓+SQL+·+Python+·+Power+BI+...+loaded)
+<!-- Terminal header SVG — upload terminal-header.svg to your repo first -->
+<img src="https://raw.githubusercontent.com/akashpshaw524/akashpshaw524/main/terminal-header.svg" alt="Terminal Header" width="100%"/>
 
-<br>
-
-<!-- Scan line spacer -->
-![line](https://capsule-render.vercel.app/api?type=rect&color=3fb950&height=2&section=header&reversal=false)
-
-<br>
+<br/>
 
 # Akash Shaw
 
-**`Data Analyst`** &nbsp;·&nbsp; Kolkata, India &nbsp;·&nbsp; Ex-TCS Bloomberg &nbsp;·&nbsp; Open to Work 
+**`Data Analyst`** &nbsp;·&nbsp; Kolkata, India &nbsp;·&nbsp; Ex-TCS Bloomberg &nbsp;·&nbsp; Open to Work
 
-<br>
-
-*A decade in business. Now fluent in data.*
+*Nearly a decade in Business Development. Now fluent in data.*
 *I don't just run queries — I understand what to ask.*
-
-<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akashshaw524-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashshaw524/)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-3fb950?style=flat-square)
@@ -31,11 +22,9 @@
 
 ## The Journey
 
-I spent nearly a decade in Business Development — running Bloomberg data pipelines at TCS, managing 500+ UK property clients at Galaxy of Homes, closing deals and reading markets before I learned to read datasets.
-
-Then I realised: **the people shaping decisions in every room weren't just the ones with the relationships — they were the ones who could decode the data behind the story.**
-
+Before I became a data analyst, I was already living like one — extracting insights from Bloomberg's terminal for Fortune 500 Company's financials statement and company statement at TCS, managing 500+ property clients at Galaxy of Homes where every decision was numbers-driven, and learning that business sense and analytical thinking are the same muscle.Eventually the pattern became obvious:**the people shaping decisions in every room weren't just the ones with the relationships — they were the ones who could decode the data behind the story.**
 So I built the skills to be that person.
+**Data was always the job. Now it's the title.**
 
 ---
 
@@ -47,6 +36,7 @@ I'm transitioning into Data Analytics — combining a decade of business intuiti
 
 ### ✅ Completed Projects
 
+
 | Project | Description | Tools |
 |---|---|---|
 | **[nse-analytics](https://github.com/akashpshaw524/nse-analytics)** | End-to-end SQL project covering window functions, CTEs, subqueries and real-world business queries | MySQL |
@@ -56,7 +46,6 @@ I'm transitioning into Data Analytics — combining a decade of business intuiti
 
 | Project
 | **Power BI Credit Card Dashboard** | 
-
 
 ---
 
@@ -85,13 +74,10 @@ I'm transitioning into Data Analytics — combining a decade of business intuiti
 ## Let's connect
 
 <div align="center">
-<br>
 
 *"The best analysts aren't just technical — they understand the business.*
 <br>
 **I've lived on both sides of that equation.**"
-
-<br>
 
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=3fb950&height=2&section=footer)
 
