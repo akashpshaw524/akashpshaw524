@@ -31,7 +31,7 @@
   <circle cx="58" cy="18" r="5.5" fill="#27c93f"/>
 
   <!-- Window title -->
-  <text x="400" y="23" text-anchor="middle" fill="#3a4a3a" font-size="11" class="mono" letter-spacing="1">akashpshaw524 — profile.md</text>
+  <text x="400" y="23" text-anchor="middle" fill="#7a8a7a" font-size="11" class="mono" letter-spacing="1">akashpshaw524 — profile.md</text>
 
   <!-- Line 1: command -->
   <text x="48" y="72" font-size="13" class="mono l1">
