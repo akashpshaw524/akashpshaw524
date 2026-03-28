@@ -1,12 +1,45 @@
-# Hi👋, I'm Akash 
+<div align="center">
 
-I spent nearly a decade in Business Development — managing UK property clients, running Bloomberg data pipelines at TCS, building relationships and closing deals across industries.
+<!-- Terminal boot sequence -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=2000&pause=99999&color=3FB950&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=90&lines=%24+loading+analyst.profile+--verbose;✓+10+years+business+experience+...+indexed;✓+SQL+·+Python+·+Power+BI+...+loaded)
 
-Then one day I realised: the people making the most impact in every room weren't just the ones with the relationships. They were the ones who could **read the data behind the story**.
+<br>
 
-So I started over. Not from scratch — but with everything I'd learned, and a new set of tools.
+<!-- Scan line spacer -->
+![line](https://capsule-render.vercel.app/api?type=rect&color=3fb950&height=2&section=header&reversal=false)
+
+<br>
+
+# Akash Shaw
+
+**`Data Analyst`** &nbsp;·&nbsp; Kolkata, India &nbsp;·&nbsp; Ex-TCS Bloomberg &nbsp;·&nbsp; Open to Work 
+
+<br>
+
+*A decade in business. Now fluent in data.*
+*I don't just run queries — I understand what to ask.*
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-akashshaw524-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashshaw524/)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-3fb950?style=flat-square)
+![Location](https://img.shields.io/badge/📍%20Kolkata-India-58a6ff?style=flat-square)
+
+</div>
 
 ---
+
+## The Journey
+
+I spent nearly a decade in Business Development — running Bloomberg data pipelines at TCS, managing 500+ UK property clients at Galaxy of Homes, closing deals and reading markets before I learned to read datasets.
+
+Then I realised: **the people shaping decisions in every room weren't just the ones with the relationships — they were the ones who could decode the data behind the story.**
+
+So I built the skills to be that person.
+
+---
+
+## Projects
 
 ## What I'm building now
 
@@ -24,34 +57,42 @@ I'm transitioning into Data Analytics — combining a decade of business intuiti
 | Project
 | **Power BI Credit Card Dashboard** | 
 
+
 ---
 
 ## Skills
 
-**Languages & Tools**
-
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**Business background:** Client Relationship Management · B2B Sales · International Account Management · Financial Data Processing (TCS–Bloomberg)
+**Domain:** B2B Sales Analytics &nbsp;·&nbsp; Client Relationship Data &nbsp;·&nbsp; Financial Data Processing &nbsp;·&nbsp; Business Intelligence
 
 ---
 
-## A bit more about me
+## Background
 
-- 📍 Based in Kolkata
-- 🏢 Previously: TCS (Bloomberg project) · Galaxy of Homes (UK property clients)
-- 🎓 Accounts & Finance, Calcutta University
+- 🏢 **TCS** — Bloomberg project, financial data pipelines
+- 🏢 **Galaxy of Homes** — 500+ UK property clients, sales & account management
+- 🎓 **Accounts & Finance** — Calcutta University
 - 💬 I ask *why* before I ask *what* — good analysis starts with the right question
 
 ---
 
 ## Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash%20Shaw-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashshaw524/)
+<div align="center">
+<br>
 
-> *"The best analysts aren't just technical — they understand the business. I've lived on both sides of that equation."*
+*"The best analysts aren't just technical — they understand the business.*
+<br>
+**I've lived on both sides of that equation.**"
+
+<br>
+
+![footer](https://capsule-render.vercel.app/api?type=rect&color=3fb950&height=2&section=footer)
+
+</div>
