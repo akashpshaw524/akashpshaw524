@@ -1,0 +1,120 @@
+<svg width="800" height="280" viewBox="0 0 800 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .mono{font-family:'Courier New',Courier,monospace;}
+
+      .clip1{animation:type1 0.9s steps(26,end) forwards 0.5s;}
+      .clip2{animation:type2 1.6s steps(48,end) forwards 1.6s;}
+      .clip3{animation:type3 1.5s steps(46,end) forwards 3.4s;}
+      .clip4{animation:type4 1.3s steps(40,end) forwards 5.1s;}
+      .clip5{animation:type5 1.5s steps(46,end) forwards 6.6s;}
+      .clip6{animation:type6 1.4s steps(44,end) forwards 8.3s;}
+      .clip7{animation:type7 0.8s steps(16,end) forwards 9.9s;}
+
+      .cur1{opacity:0;animation:show 0s forwards 0.5s,hide 0s forwards 1.6s;}
+      .cur2{opacity:0;animation:show 0s forwards 1.6s,hide 0s forwards 3.4s;}
+      .cur3{opacity:0;animation:show 0s forwards 3.4s,hide 0s forwards 5.1s;}
+      .cur4{opacity:0;animation:show 0s forwards 5.1s,hide 0s forwards 6.6s;}
+      .cur5{opacity:0;animation:show 0s forwards 6.6s,hide 0s forwards 8.3s;}
+      .cur6{opacity:0;animation:show 0s forwards 8.3s,hide 0s forwards 9.9s;}
+      .cur7{opacity:0;animation:show 0s forwards 10.4s,blink 1s step-end infinite 10.4s;}
+
+      .scanline{stroke-dasharray:800;stroke-dashoffset:800;animation:scan 0.8s ease forwards 10.6s;}
+
+      @keyframes type1{from{width:0}to{width:250px}}
+      @keyframes type2{from{width:0}to{width:680px}}
+      @keyframes type3{from{width:0}to{width:680px}}
+      @keyframes type4{from{width:0}to{width:680px}}
+      @keyframes type5{from{width:0}to{width:680px}}
+      @keyframes type6{from{width:0}to{width:680px}}
+      @keyframes type7{from{width:0}to{width:160px}}
+
+      @keyframes show{to{opacity:1;}}
+      @keyframes hide{to{opacity:0;}}
+      @keyframes blink{0%,100%{opacity:1;}50%{opacity:0;}}
+      @keyframes scan{to{stroke-dashoffset:0;}}
+    </style>
+
+    <clipPath id="c1"><rect x="48" y="54"  height="22" width="0" class="clip1"/></clipPath>
+    <clipPath id="c2"><rect x="48" y="82"  height="22" width="0" class="clip2"/></clipPath>
+    <clipPath id="c3"><rect x="48" y="110" height="22" width="0" class="clip3"/></clipPath>
+    <clipPath id="c4"><rect x="48" y="138" height="22" width="0" class="clip4"/></clipPath>
+    <clipPath id="c5"><rect x="48" y="166" height="22" width="0" class="clip5"/></clipPath>
+    <clipPath id="c6"><rect x="48" y="194" height="22" width="0" class="clip6"/></clipPath>
+    <clipPath id="c7"><rect x="48" y="222" height="22" width="0" class="clip7"/></clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="280" fill="#0a0d0a" rx="10"/>
+
+  <!-- Top bar -->
+  <rect width="800" height="36" fill="#111611" rx="10"/>
+  <rect y="20" width="800" height="16" fill="#111611"/>
+  <circle cx="22" cy="18" r="5.5" fill="#ff5f56"/>
+  <circle cx="40" cy="18" r="5.5" fill="#ffbd2e"/>
+  <circle cx="58" cy="18" r="5.5" fill="#27c93f"/>
+  <text x="400" y="23" text-anchor="middle" fill="#7a8a7a" font-size="11" class="mono" letter-spacing="1">akashpshaw524 — profile.md</text>
+
+  <!-- L1: command -->
+  <text x="48" y="70" font-size="13" class="mono" clip-path="url(#c1)">
+    <tspan fill="#3fb950">$</tspan>
+    <tspan fill="#8b949e"> whoami </tspan>
+    <tspan fill="#58a6ff">--full-history</tspan>
+  </text>
+  <rect class="cur1" x="50" y="56" width="8" height="14" fill="#3fb950"/>
+
+  <!-- L2: sales -->
+  <text x="48" y="98" font-size="13" class="mono" clip-path="url(#c2)">
+    <tspan fill="#3fb950">&#x2713;  sales.profile        </tspan>
+    <tspan fill="#8b949e">...  </tspan>
+    <tspan fill="#f0c060">owned it. a decade of impact.  </tspan>
+    <tspan fill="#3fb950">nailed it</tspan>
+  </text>
+  <rect class="cur2" x="50" y="84" width="8" height="14" fill="#3fb950"/>
+
+  <!-- L3: bloomberg -->
+  <text x="48" y="126" font-size="13" class="mono" clip-path="url(#c3)">
+    <tspan fill="#3fb950">&#x2713;  bloomberg.data       </tspan>
+    <tspan fill="#8b949e">...  </tspan>
+    <tspan fill="#f0c060">Fortune 500 financials. pipelines built.  </tspan>
+    <tspan fill="#3fb950">nailed it</tspan>
+  </text>
+  <rect class="cur3" x="50" y="112" width="8" height="14" fill="#3fb950"/>
+
+  <!-- L4: pivot -->
+  <text x="48" y="154" font-size="13" class="mono" clip-path="url(#c4)">
+    <tspan fill="#58a6ff">&#x2192;  upgrading profile    </tspan>
+    <tspan fill="#8b949e">...  </tspan>
+    <tspan fill="#58a6ff">analyst.profile unlocking...  </tspan>
+    <tspan fill="#8b949e">done</tspan>
+  </text>
+  <rect class="cur4" x="50" y="140" width="8" height="14" fill="#58a6ff"/>
+
+  <!-- L5: skills -->
+  <text x="48" y="182" font-size="13" class="mono" clip-path="url(#c5)">
+    <tspan fill="#3fb950">&#x2713;  SQL &#xB7; Python &#xB7; Pandas &#xB7; Power BI  </tspan>
+    <tspan fill="#8b949e">...  </tspan>
+    <tspan fill="#3fb950">loaded.  </tspan>
+    <tspan fill="#8b949e">ready</tspan>
+  </text>
+  <rect class="cur5" x="50" y="168" width="8" height="14" fill="#3fb950"/>
+
+  <!-- L6: analyst online -->
+  <text x="48" y="210" font-size="13" class="mono" clip-path="url(#c6)">
+    <tspan fill="#3fb950">&#x2713;  analyst.profile      </tspan>
+    <tspan fill="#8b949e">...  </tspan>
+    <tspan fill="#f0c060">ready to make an impact.  </tspan>
+    <tspan fill="#8b949e">online</tspan>
+  </text>
+  <rect class="cur6" x="50" y="196" width="8" height="14" fill="#3fb950"/>
+
+  <!-- L7: prompt -->
+  <text x="48" y="238" font-size="13" class="mono" clip-path="url(#c7)">
+    <tspan fill="#7a8a7a">akash@github:~$</tspan>
+    <tspan fill="#3fb950"> </tspan>
+  </text>
+  <rect class="cur7" x="175" y="224" width="8" height="14" fill="#3fb950"/>
+
+  <!-- Scan line -->
+  <line x1="0" y1="260" x2="800" y2="260" stroke="#3fb950" stroke-width="1.5" class="scanline"/>
+</svg>
