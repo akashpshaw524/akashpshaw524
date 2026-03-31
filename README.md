@@ -9,7 +9,7 @@
 
 **`Data Analyst`** &nbsp;·&nbsp; Kolkata, India &nbsp;·&nbsp; Ex-TCS Bloomberg &nbsp;·&nbsp; Open to Work
 
-*Nearly a decade in Business Development. Now fluent in data.*
+*A decade in Business Development , Sales and Negotiations. Now fluent in data.*
 *I don't just run queries — I understand what to ask.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akashshaw524-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashshaw524/)
@@ -41,11 +41,7 @@ I'm transitioning into Data Analytics — combining a decade of business intuiti
 |---|---|---|
 | **[nse-analytics](https://github.com/akashpshaw524/nse-analytics)** | End-to-end SQL project covering window functions, CTEs, subqueries and real-world business queries | MySQL |
 | **[zomato-kolkata-market-analysis](https://github.com/akashpshaw524/zomato-kolkata-market-analysis)** | Comprehensive data wrangling and analysis — cleaning, aggregation, reshaping, and exploratory analysis on real datasets | Python · Pandas · NumPy |
-
-### 🔄 Coming Soon
-
-| Project
-| **Power BI Credit Card Dashboard** | 
+| **[Indian-15-Real-Credit-Card-Insights](https://github.com/akashpshaw524/Indian-15-Real-Credit-Card-Insights))** | Customers struggle to compare cards, banks struggle to understand rejection patterns, and analysts struggle to identify which customer segments generate the most reward value. This dashboard solves all three problems in one interactive report.
 
 ---
 
@@ -72,6 +68,7 @@ I'm transitioning into Data Analytics — combining a decade of business intuiti
 ---
 
 ## Let's connect
+📧 akash.pshaw524@gmail.com 🔗https://www.linkedin.com/in/akashshaw524/
 
 <div align="center">
 
