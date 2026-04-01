@@ -9,7 +9,7 @@
 
 **`Data Analyst`** &nbsp;·&nbsp; Kolkata, India &nbsp;·&nbsp; Ex-TCS Bloomberg &nbsp;·&nbsp; Open to Work
 
-*A decade in Business Development , Sales and Negotiations. Now fluent in data.*
+*A decade in Business Development , Revenue analytics and Negotiations. Now fluent in data.*
 *I don't just run queries — I understand what to ask.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akashshaw524-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashshaw524/)
