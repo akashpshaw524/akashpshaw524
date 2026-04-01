@@ -22,7 +22,7 @@
 
 ## The Journey
 
-Before I became a data analyst, I was already living like one — extracting insights from Bloomberg's terminal for Fortune 500 Company's financials statement and company statement at TCS, managing 500+ property clients at Galaxy of Homes where every decision was numbers-driven, and learning that business sense and analytical thinking are the same muscle.Eventually the pattern became obvious:**the people shaping decisions in every room weren't just the ones with the relationships — they were the ones who could decode the data behind the story.**
+Before I became a data analyst, I was already living like one — extracting insights from Bloomberg's terminal for Fortune 500 Company's financials statement and company statement at TCS, managing 600+ property clients at Galaxy of Homes where every decision and deals were numbers-driven, and learning that business sense and analytical thinking are the same muscle.Eventually the pattern became obvious:**the people shaping decisions in every room weren't just the ones with the relationships — they were the ones who could decode the data behind the story.**
 So I built the skills to be that person.
 **Data was always the job. Now it's the title.**
 
@@ -66,6 +66,8 @@ I'm transitioning into Data Analytics — combining a decade of business intuiti
 - 💬 I ask *why* before I ask *what* — good analysis starts with the right question
 
 ---
+
+I would welcome the opportunity to discuss how my analytical skills, track record of closing high-value deals, building client relationships, and driving revenue growth can contribute to the organization's continued success.
 
 ## Let's connect
 📧 akash.pshaw524@gmail.com 🔗https://www.linkedin.com/in/akashshaw524/
