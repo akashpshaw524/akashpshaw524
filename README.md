@@ -7,9 +7,9 @@
 
 # Akash Shaw
 
-**`Data Analyst`** &nbsp;·&nbsp; Kolkata, India &nbsp;·&nbsp; Ex-TCS Bloomberg &nbsp;·&nbsp; Open to Work
+**`Data Analyst`** &nbsp;·&nbsp; Kolkata, India &nbsp;·&nbsp; Ex-TCS Bloomberg , Galaxy Of Homes &nbsp;·&nbsp; Open to Work
 
-*A decade in Business Development , Revenue analytics and Negotiations. Now fluent in data.*
+*A decade in Business Development , Revenue Analytics and Negotiations. Now fluent in data.*
 *I don't just run queries — I understand what to ask.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akashshaw524-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashshaw524/)
@@ -22,7 +22,7 @@
 
 ## The Journey
 
-Before I became a data analyst, I was already living like one — extracting insights from Bloomberg's terminal for Fortune 500 Company's financials statement and company statement at TCS, managing 600+ property clients at Galaxy of Homes where every decision and deals were numbers-driven, and learning that business sense and analytical thinking are the same muscle.Eventually the pattern became obvious:**the people shaping decisions in every room weren't just the ones with the relationships — they were the ones who could decode the data behind the story.**
+Before I became a data analyst, I was already living like one — extracting insights for Bloomberg from Fortune 500 Company's financials statement and company statement at TCS, managing 600+ property clients at Galaxy of Homes where every decision and deals were numbers-driven, and learning that business sense and analytical thinking are the same muscle.Eventually the pattern became obvious- **the people shaping decisions in every room weren't just the ones with the relationships — they were the ones who could decode the data behind the story.**
 So I built the skills to be that person.
 **Data was always the job. Now it's the title.**
 
@@ -30,9 +30,8 @@ So I built the skills to be that person.
 
 ## Projects
 
-## What I'm building now
-
-I'm transitioning into Data Analytics — combining a decade of business intuition with hands-on technical skills in SQL, Python, and data visualisation.
+## 🛠️ Current Focus
+Deploying hands-on expertise in SQL, Python, and advanced Visualization to solve complex business problems. I leverage a decade of industry insight to build analytical models that are as strategically sound as they are technically precise.
 
 ### ✅ Completed Projects
 
@@ -60,8 +59,8 @@ I'm transitioning into Data Analytics — combining a decade of business intuiti
 
 ## Background
 
-- 🏢 **TCS** — Bloomberg project, financial data pipelines
-- 🏢 **Galaxy of Homes** — 500+ UK property clients, sales & account management
+- 🏢 **TCS** — Bloomberg project
+- 🏢 **Galaxy of Homes** — 600+ UK property clients, sales , account management & negotiation
 - 🎓 **Accounts & Finance** — Calcutta University
 - 💬 I ask *why* before I ask *what* — good analysis starts with the right question
 
