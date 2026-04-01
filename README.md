@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Terminal header SVG — upload terminal-header.svg to your repo first -->
-<img src="https://raw.githubusercontent.com/akashpshaw524/akashpshaw524/main/terminal-header.svg" alt="Terminal Header" width="100%"/>
+<img src="https://raw.githubusercontent.com/akashpshaw524/akashpshaw524/main/image.svg" alt="Terminal Header" width="100%"/>
 
 <br/>
 
