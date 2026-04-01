@@ -22,9 +22,9 @@
 
 ## The Journey
 
-Before I became a data analyst, I was already living like one — extracting insights for Bloomberg from Fortune 500 Company's financials statement and company statement at TCS, managing 600+ property clients at Galaxy of Homes where every decision and deals were numbers-driven, and learning that business sense and analytical thinking are the same muscle.Eventually the pattern became obvious- **the people shaping decisions in every room weren't just the ones with the relationships — they were the ones who could decode the data behind the story.**
+Before I became a data analyst, I was already living like one — extracting insights for Bloomberg from Fortune 500 Company's financials statement and company statement at TCS, managing £50M+ in UK property transactions and 600+ property clients at Galaxy of Homes where every decision and deals were numbers-driven, and learning that business sense and analytical thinking are the same muscle.Eventually the pattern became obvious- **the people shaping decisions in every room weren't just the ones with the relationships — they were the ones who could decode the data behind the story.**
 So I built the skills to be that person.
-**Data was always the job. Now it's the title.**
+**Data was always the job. I'm making it official.**
 
 ---
 
@@ -53,7 +53,7 @@ Deploying hands-on expertise in SQL, Python, and advanced Visualization to solve
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**Domain:** B2B Sales Analytics &nbsp;·&nbsp; Client Relationship Data &nbsp;·&nbsp; Financial Data Processing &nbsp;·&nbsp; Business Intelligence
+**Domain:** Revenue Analytics &nbsp;·&nbsp; Client Relationship Data &nbsp;·&nbsp; Financial Data Processing &nbsp;·&nbsp; Business Intelligence
 
 ---
 
