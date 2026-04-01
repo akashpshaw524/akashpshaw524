@@ -41,7 +41,7 @@ I'm transitioning into Data Analytics — combining a decade of business intuiti
 |---|---|---|
 | **[nse-analytics](https://github.com/akashpshaw524/nse-analytics)** | End-to-end SQL project covering window functions, CTEs, subqueries and real-world business queries | MySQL |
 | **[zomato-kolkata-market-analysis](https://github.com/akashpshaw524/zomato-kolkata-market-analysis)** | Comprehensive data wrangling and analysis — cleaning, aggregation, reshaping, and exploratory analysis on real datasets | Python · Pandas · NumPy |
-| **[Indian-15-Real-Credit-Card-Insights](https://github.com/akashpshaw524/Indian-15-Real-Credit-Card-Insights))** | Customers struggle to compare cards, banks struggle to understand rejection patterns, and analysts struggle to identify which customer segments generate the most reward value. This dashboard solves all three problems in one interactive report.
+| **[Indian-15-Real-Credit-Card-Insights](https://github.com/akashpshaw524/Indian-15-Real-Credit-Card-Insights))** | Customers struggle to compare cards, banks struggle to understand rejection patterns, and analysts struggle to identify which customer segments generate the most reward value. This dashboard solves all three problems in one interactive report | Visualization . Power Query . Star Schema . DAX |
 
 ---
 
