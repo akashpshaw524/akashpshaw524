@@ -9,7 +9,7 @@
 
 **`Data Analyst`** &nbsp;·&nbsp; Kolkata, India &nbsp;·&nbsp; Ex-TCS Bloomberg , Galaxy Of Homes &nbsp;·&nbsp; Open to Work
 
-*A decade in Business Development, Revenue Analytics and Negotiations. Now fluent in data.*
+*Turning 10 years of Revenue Strategy & £50M+ in Transactions into Data-Driven Insights. Data Analyst | SQL | Python | Power BI | Business Intelligence.*
 *I don't just run queries — I understand what to ask.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akashshaw524-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashshaw524/)
