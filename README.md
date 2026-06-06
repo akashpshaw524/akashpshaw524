@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Akash Shaw 👋</h1>
 
 <p align="center">
-  <b>Data Engineer · Data Analyst · Business Intelligence</b><br/>
+  <b>Data Engineer · Data Analyst · Business Intelligence . Microsoft Fabric . SQL . Power BI . Pyspark</b><br/>
   <i>Turning business problems into data solutions — one pipeline at a time.</i>
 </p>
 
@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/akashshaw524/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/>
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:akash.pshaw524@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square&logo=gmail"/>
   </a>
   <a href="https://github.com/akashpshaw524">
@@ -26,7 +26,7 @@
 
 - 🏦 Ex-**TCS Bloomberg Project** — processed and validated financial data for Fortune 500 companies
 - 🏢 Ex-**Galaxy of Homes** — managed 600+ UK/US clients across £50M+ property transactions
-- 🔧 Currently building end-to-end data platforms using **Microsoft Fabric, PySpark, SQL, and Power BI**
+- 🔧 Currently building end-to-end data platforms using **Microsoft Fabric, PySpark, SQL, Lakehouse Architecture , Data Pipeline and Power BI**
 - 📍 Kolkata, India · Open to remote and relocation
 
 > *Most analysts know the code. I know the business behind it.*
@@ -60,7 +60,7 @@
 - Developed Star Schema semantic model and published Power BI dashboard
 
 `Microsoft Fabric` `PySpark` `Delta Lake` `SQL` `Power BI`
-&nbsp;·&nbsp; 📁 [View on GitHub](#)
+&nbsp;·&nbsp; 📁 [View on GitHub](https://github.com/akashpshaw524/Fabric-Stock-Market-Intel)
 
 ---
 
@@ -84,7 +84,7 @@
 - Business recommendations backed by statistical patterns
 
 `Python` `Pandas` `NumPy`
-&nbsp;·&nbsp; 📁 [View on GitHub](#)
+&nbsp;·&nbsp; 📁 [View on GitHub](https://github.com/akashpshaw524/zomato-kolkata-market-analysis)
 
 ---
 
@@ -94,7 +94,7 @@
 - Star Schema design · DAX measures · KPI reporting · Customer segmentation
 
 `Power BI` `DAX`
-&nbsp;·&nbsp; 📁 [View on GitHub](#)
+&nbsp;·&nbsp; 📁 [View on GitHub](https://github.com/akashpshaw524/Indian-15-Real-Credit-Card-Insights)
 
 ---
 
