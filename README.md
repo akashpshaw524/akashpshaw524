@@ -1,82 +1,129 @@
-<div align="center">
+<h1 align="center">Hi, I'm Akash Shaw 👋</h1>
 
-<!-- Terminal header SVG — upload terminal-header.svg to your repo first -->
-<img src="https://raw.githubusercontent.com/akashpshaw524/akashpshaw524/main/image.svg" alt="Terminal Header" width="100%"/>
+<p align="center">
+  <b>Data Engineer · Data Analyst · Business Intelligence</b><br/>
+  <i>Turning business problems into data solutions — one pipeline at a time.</i>
+</p>
 
-<br/>
-
-# Akash Shaw
-
-**`Data Analyst`** &nbsp;·&nbsp; Kolkata, India &nbsp;·&nbsp; Ex-TCS Bloomberg , Galaxy Of Homes &nbsp;·&nbsp; Open to Work
-
-*Turning 10 years of Revenue Strategy & £50M+ in Transactions into Data-Driven Insights. Data Analyst | SQL | Python | Power BI | Business Intelligence.*
-*I don't just run queries — I understand what to ask.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-akashshaw524-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashshaw524/)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-3fb950?style=flat-square)
-![Location](https://img.shields.io/badge/📍%20Kolkata-India-58a6ff?style=flat-square)
-
-</div>
-
----
-
-## The Journey
-
-Before I became a data analyst, I was already living like one — extracting insights for Bloomberg from Fortune 500 Company's financials statement and company statement at TCS, managing £50M+ in UK property transactions and 600+ property clients at Galaxy of Homes where every decision and deals were numbers-driven, and learning that business sense and analytical thinking are the same muscle.Eventually the pattern became obvious- **the people shaping decisions in every room weren't just the ones with the relationships — they were the ones who could decode the data behind the story.**
-So I built the skills to be that person.
-**Data was always the job. I'm making it official.**
+<p align="center">
+  <a href="https://www.linkedin.com/in/akashshaw524/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/>
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square&logo=gmail"/>
+  </a>
+  <a href="https://github.com/akashpshaw524">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github"/>
+  </a>
+  <img src="https://img.shields.io/badge/Open%20To-Work-brightgreen?style=flat-square"/>
+</p>
 
 ---
 
-## Projects
+## 👤 About Me
 
-## 🛠️ Current Focus
-Deploying hands-on expertise in SQL, Python, and advanced Visualization to solve complex business problems. I leverage a decade of industry insight to build analytical models that are as strategically sound as they are technically precise.
+10 years across financial data operations, business development, and client management — now building data engineering and analytics solutions that connect technical execution with real business context.
 
-### ✅ Completed Projects
+- 🏦 Ex-**TCS Bloomberg Project** — processed and validated financial data for Fortune 500 companies
+- 🏢 Ex-**Galaxy of Homes** — managed 600+ UK/US clients across £50M+ property transactions
+- 🔧 Currently building end-to-end data platforms using **Microsoft Fabric, PySpark, SQL, and Power BI**
+- 📍 Kolkata, India · Open to remote and relocation
 
-
-| Project | Description | Tools |
-|---|---|---|
-| **[nse-analytics](https://github.com/akashpshaw524/nse-analytics)** | End-to-end SQL project covering window functions, CTEs, subqueries and real-world business queries | MySQL |
-| **[zomato-kolkata-market-analysis](https://github.com/akashpshaw524/zomato-kolkata-market-analysis)** | Comprehensive data wrangling and analysis — cleaning, aggregation, reshaping, and exploratory analysis on real datasets | Python · Pandas · NumPy |
-| **[Indian-15-Real-Credit-Card-Insights](https://github.com/akashpshaw524/Indian-15-Real-Credit-Card-Insights))** | Customers struggle to compare cards, banks struggle to understand rejection patterns, and analysts struggle to identify which customer segments generate the most reward value. This dashboard solves all three problems in one interactive report | Visualization . Power Query . Star Schema . DAX |
+> *Most analysts know the code. I know the business behind it.*
 
 ---
 
-## Skills
+## 🛠️ Core Skills
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+**Data Engineering**
+`Microsoft Fabric` `Lakehouse Architecture` `Medallion Architecture` `PySpark` `Delta Tables` `Data Pipelines` `Data Modeling`
 
-**Domain:** Revenue Analytics &nbsp;·&nbsp; Client Relationship Data &nbsp;·&nbsp; Financial Data Processing &nbsp;·&nbsp; Business Intelligence
+**Analytics**
+`SQL` `Python` `Pandas` `NumPy` `Exploratory Data Analysis`
 
----
-
-## Background
-
-- 🏢 **TCS** — Bloomberg project
-- 🏢 **Galaxy of Homes** — 600+ UK property clients, sales , account management & negotiation
-- 🎓 **Accounts & Finance** — Calcutta University
-- 💬 I ask *why* before I ask *what* — good analysis starts with the right question
+**Business Intelligence**
+`Power BI` `DAX` `Semantic Models` `Star Schema` `Dashboard Development`
 
 ---
 
-I would welcome the opportunity to discuss how my analytical skills, track record of closing high-value deals, building client relationships, and driving revenue growth can contribute to the organization's continued success.
+## 📂 Featured Projects
 
-## Let's connect
-📧 akash.pshaw524@gmail.com 🔗https://www.linkedin.com/in/akashshaw524/
+---
 
-<div align="center">
+### 🏭 Microsoft Fabric Stock Market Intelligence Platform
+> End-to-end Data Engineering solution built on Microsoft Fabric
 
-*"The best analysts aren't just technical — they understand the business.*
-<br>
-**I've lived on both sides of that equation.**"
+- Designed **Bronze → Silver → Gold** Lakehouse architecture with Medallion pattern
+- Automated stock market data ingestion using Fabric Pipelines and PySpark
+- Implemented rolling 1-year historical retention logic with Delta Tables
+- Built analytical datasets covering momentum, volatility, sector performance, and volume
+- Developed Star Schema semantic model and published Power BI dashboard
 
-![footer](https://capsule-render.vercel.app/api?type=rect&color=3fb950&height=2&section=footer)
+`Microsoft Fabric` `PySpark` `Delta Lake` `SQL` `Power BI`
+&nbsp;·&nbsp; 📁 [View on GitHub](#)
 
-</div>
+---
+
+### 📈 NSE Stock Market SQL Analytics
+> 1-year analysis of 4 Nifty 50 stocks using advanced SQL — data sourced directly from NSE India
+
+- 988 rows · 247 trading days · 4 sectors · 11 business queries
+- Window functions, stacked CTEs, LAG/LEAD, rolling averages, volatility analysis
+- Recency-weighted performance scorecard and 52-week high/low distance analysis
+- Data cleaned and loaded via Python (pandas + pymysql)
+
+`MySQL` `SQL` `Python` `pandas`
+&nbsp;·&nbsp; 📁 [View on GitHub](https://github.com/akashpshaw524/nse-analytics)
+
+---
+
+### 🍽️ Zomato Restaurant Analytics
+> EDA project on restaurant performance and customer behaviour across Indian cities
+
+- Data cleaning, feature analysis, trend identification
+- Business recommendations backed by statistical patterns
+
+`Python` `Pandas` `NumPy`
+&nbsp;·&nbsp; 📁 [View on GitHub](#)
+
+---
+
+### 💳 Credit Card Spending Analytics Dashboard
+> Interactive Power BI dashboard on customer spending behaviour
+
+- Star Schema design · DAX measures · KPI reporting · Customer segmentation
+
+`Power BI` `DAX`
+&nbsp;·&nbsp; 📁 [View on GitHub](#)
+
+---
+
+## 💼 Professional Background
+
+**Tata Consultancy Services — Bloomberg Project** *(Dec 2016 – Aug 2018)*
+Processed and validated financial statements from global companies · Maintained data quality for institutional investor workflows · Supported Fortune 500 financial data operations
+
+**Galaxy of Homes — Business Development Manager** *(Jul 2019 – Nov 2023)*
+Managed 600+ UK and US property clients · Supported £50M+ in transactions · Applied data-driven decision making to sales and client retention
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akashpshaw524&show_icons=true&theme=default&hide_border=true" height="150"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashpshaw524&layout=compact&theme=default&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 📬 Let's Connect
+
+If you're hiring for **Data Engineering, Data Analyst, or BI roles** — my work is all public, my background is real, and I'd like to talk.
+
+📧 akash.pshaw524@gmail.com &nbsp;·&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/akashshaw524/) &nbsp;·&nbsp; 💻 [GitHub](https://github.com/akashpshaw524)
+
+---
+
+<p align="center"><i>"The best analysts don't just find answers — they ask better questions."</i></p>
