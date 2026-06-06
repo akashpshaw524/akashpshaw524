@@ -22,16 +22,36 @@
 
 ## 👤 About Me
 
-10 years across financial data operations, business development, and client management — now building data engineering and analytics solutions that connect technical execution with real business context.
+10 years across financial data operations, business development, and client management — executed and deployed data engineering and analytics solutions that connect technical execution with real business context.
 
 - 🏦 Ex-**TCS Bloomberg Project** — processed and validated financial data for Fortune 500 companies
 - 🏢 Ex-**Galaxy of Homes** — managed 600+ UK/US clients across £50M+ property transactions
 - 🔧 Currently building end-to-end data platforms using **Microsoft Fabric, PySpark, SQL, Lakehouse Architecture , Data Pipeline and Power BI**
 - 📍 Kolkata, India · Open to remote and relocation
 
-> *Most analysts know the code. I know the business behind it.*
+ *Most analysts know the code. I know the business behind it.*
 
 ---
+
+## 🏆 Professional Highlights
+
+- 📊 Processed Fortune 500 financial statement data at TCS Bloomberg with 99.5% accuracy
+- 🤝 Managed 600+ UK & US clients and supported £50M+ in property transactions
+- 🔧 Designed and deployed end-to-end analytics and data engineering portfolio projects using Microsoft Fabric, SQL, Python and Power BI
+
+## 📌 Career Snapshot
+<table>
+  <tr>
+    <td align="center"><b>10+ Years</b><br/>Professional Experience</td>
+    <td align="center"><b>600+</b><br/>UK & US Clients Managed</td>
+    <td align="center"><b>£50M+</b><br/>Transactions Supported</td>
+  </tr>
+  <tr>
+    <td align="center"><b>99.5%</b><br/>Data Accuracy at TCS</td>
+    <td align="center"><b>4</b><br/>End-to-End Analytics Projects</td>
+    <td align="center"><b>1</b><br/>Production-Style Fabric Platform</td>
+  </tr>
+</table>
 
 ## 🛠️ Core Skills
 
@@ -50,7 +70,7 @@
 
 ---
 
-### 🏭 Microsoft Fabric Stock Market Intelligence Platform
+### 🏭 Microsoft Fabric Stock Market Intelligence Platform - &nbsp;·&nbsp; 📁 [View on GitHub](https://github.com/akashpshaw524/Fabric-Stock-Market-Intel)
 > End-to-end Data Engineering solution built on Microsoft Fabric
 
 - Designed **Bronze → Silver → Gold** Lakehouse architecture with Medallion pattern
@@ -60,11 +80,10 @@
 - Developed Star Schema semantic model and published Power BI dashboard
 
 `Microsoft Fabric` `PySpark` `Delta Lake` `SQL` `Power BI`
-&nbsp;·&nbsp; 📁 [View on GitHub](https://github.com/akashpshaw524/Fabric-Stock-Market-Intel)
 
 ---
 
-### 📈 NSE Stock Market SQL Analytics
+### 📈 NSE Stock Market SQL Analytics - &nbsp;·&nbsp; 📁 [View on GitHub](https://github.com/akashpshaw524/nse-analytics)
 > 1-year analysis of 4 Nifty 50 stocks using advanced SQL — data sourced directly from NSE India
 
 - 988 rows · 247 trading days · 4 sectors · 11 business queries
@@ -73,28 +92,26 @@
 - Data cleaned and loaded via Python (pandas + pymysql)
 
 `MySQL` `SQL` `Python` `pandas`
-&nbsp;·&nbsp; 📁 [View on GitHub](https://github.com/akashpshaw524/nse-analytics)
 
 ---
 
-### 🍽️ Zomato Restaurant Analytics
+### 🍽️ Zomato Restaurant Analytics - &nbsp;·&nbsp; 📁 [View on GitHub](https://github.com/akashpshaw524/zomato-kolkata-market-analysis)
 > EDA project on restaurant performance and customer behaviour across Indian cities
 
 - Data cleaning, feature analysis, trend identification
 - Business recommendations backed by statistical patterns
 
 `Python` `Pandas` `NumPy`
-&nbsp;·&nbsp; 📁 [View on GitHub](https://github.com/akashpshaw524/zomato-kolkata-market-analysis)
 
 ---
 
-### 💳 Credit Card Spending Analytics Dashboard
+### 💳 Credit Card Spending Analytics Dashboard - &nbsp;·&nbsp; 📁 [View on GitHub](https://github.com/akashpshaw524/Indian-15-Real-Credit-Card-Insights)
+
 > Interactive Power BI dashboard on customer spending behaviour
 
 - Star Schema design · DAX measures · KPI reporting · Customer segmentation
 
 `Power BI` `DAX`
-&nbsp;·&nbsp; 📁 [View on GitHub](https://github.com/akashpshaw524/Indian-15-Real-Credit-Card-Insights)
 
 ---
 
@@ -105,16 +122,6 @@ Processed and validated financial statements from global companies · Maintained
 
 **Galaxy of Homes — Business Development Manager** *(Jul 2019 – Nov 2023)*
 Managed 600+ UK and US property clients · Supported £50M+ in transactions · Applied data-driven decision making to sales and client retention
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashpshaw524&show_icons=true&theme=default&hide_border=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashpshaw524&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
 
 ---
 
