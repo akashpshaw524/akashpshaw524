@@ -1,3 +1,8 @@
+<!-- Terminal header SVG — upload terminal-header.svg to your repo first -->
+<img src="https://raw.githubusercontent.com/akashpshaw524/akashpshaw524/main/image.svg" alt="Terminal Header" width="100%"/>
+
+<br/>
+
 <h1 align="center">Hi, I'm Akash Shaw 👋</h1>
 
 <p align="center">
@@ -10,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/>
   </a>
   <a href="mailto:akash.pshaw524@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-akash.pshaw524@gmail.com-EA4335?style=flat-square&logo=gmail"/>
   </a>
   <a href="https://github.com/akashpshaw524">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github"/>
@@ -26,7 +31,7 @@
 
 - 🏦 Ex-**TCS Bloomberg Project** — processed and validated financial data for Fortune 500 companies
 - 🏢 Ex-**Galaxy of Homes** — managed 600+ UK/US clients across £50M+ property transactions
-- 🔧 Currently building end-to-end data platforms using **Microsoft Fabric, PySpark, SQL, Lakehouse Architecture , Data Pipeline and Power BI**
+- 🔧 Built end-to-end data platforms using **Microsoft Fabric, PySpark, SQL, Lakehouse Architecture , Data Pipeline and Power BI**
 - 📍 Kolkata, India · Open to remote and relocation
 
  *Most analysts know the code. I know the business behind it.*
@@ -63,6 +68,9 @@
 
 **Business Intelligence**
 `Power BI` `DAX` `Semantic Models` `Star Schema` `Dashboard Development`
+
+**Domain**
+`Financial Data, Revenue Analytics, Business Intelligence`
 
 ---
 
