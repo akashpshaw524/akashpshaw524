@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/>
   </a>
   <a href="mailto:akash.pshaw524@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email- akash.pshaw524@gmail.com-EA4335?style=flat-square&logo=gmail"/>
   </a>
   <a href="https://github.com/akashpshaw524">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github"/>
