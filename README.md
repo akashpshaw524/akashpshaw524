@@ -19,27 +19,23 @@
 
 ## 👤 About Me
 
-10 years across financial data operations, business development, and client management — executed and deployed data engineering and analytics solutions that connect technical execution with real business context.
+**Ex-TCS Bloomberg | Ex - Galaxy Of Homes | Data Analyst | Data Engineer**
 
-- 🏦 Ex-**TCS Bloomberg Project** — processed and validated financial data for Fortune 500 companies
-- 🏢 Ex-**Galaxy of Homes** — managed 600+ UK/US clients across £50M+ property transactions
-- 🔧 Built end-to-end data platforms using **Microsoft Fabric, PySpark, SQL, Lakehouse Architecture , Data Pipeline and Power BI**
-- 📍 Kolkata, India · Open to remote and relocation
+Processed **Fortune 500 financial data**, supported **£50M+** transactions, and managed **600+** UK & US clients.
 
- *Most analysts know the code. I know the business behind it.*
+Designed and deployed end-to-end Data Engineering and Analytics solutions using **Microsoft Fabric, PySpark, SQL, Delta Lake, and Power BI**.
+
+Building scalable data platforms that connect technical execution with **real business outcomes**.
+
+> Most analysts know the code.
+> I understand the business behind it.
 
 ---
-
-## 🏆 Professional Highlights
-
-- 📊 Processed Fortune 500 financial statement data at TCS Bloomberg with 99.5% accuracy
-- 🤝 Managed 600+ UK & US clients and supported £50M+ in property transactions
-- 🔧 Designed and deployed end-to-end analytics and data engineering portfolio projects using Microsoft Fabric, SQL, Python and Power BI
 
 ## 📌 Career Snapshot
 <table>
   <tr>
-    <td align="center"><b>10+ Years</b><br/>Professional Experience</td>
+    <td align="center"><b>9+ Years</b><br/>Professional Experience</td>
     <td align="center"><b>600+</b><br/>UK & US Clients Managed</td>
     <td align="center"><b>£50M+</b><br/>Transactions Supported</td>
   </tr>
@@ -70,12 +66,12 @@
 
 ---
 
-### 🏭 Microsoft Fabric Stock Market Intelligence Platform - &nbsp;·&nbsp; 📁 [Poject Link](https://github.com/akashpshaw524/Fabric-Stock-Market-Intel)
+### 🏭 Microsoft Fabric Stock Market Intelligence Platform - &nbsp;·&nbsp; 📁 [Project Link](https://github.com/akashpshaw524/Fabric-Stock-Market-Intel)
 > End-to-end Data Engineering solution built on Microsoft Fabric
 
 - Designed **Bronze → Silver → Gold** Lakehouse architecture with Medallion pattern
-- Automated stock market data ingestion using Fabric Pipelines and PySpark
-- Implemented rolling 1-year historical retention logic with Delta Tables
+- Automated stock market **data ingestion** using Fabric Pipelines and PySpark
+- Implemented **rolling 1-year historical retention** logic with Delta Tables
 - Built analytical datasets covering momentum, volatility, sector performance, and volume
 - Developed Star Schema semantic model and published Power BI dashboard
 
