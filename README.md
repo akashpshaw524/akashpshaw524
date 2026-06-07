@@ -2,10 +2,10 @@
 <img src="https://raw.githubusercontent.com/akashpshaw524/akashpshaw524/main/terminal-header.svg" alt="Terminal Header" width="100%"/>
 <br/>
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/akashshaw524/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/>
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="akash.pshaw524@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square&logo=gmail"/>
   </a>
   <a href="https://github.com/akashpshaw524">
@@ -70,7 +70,7 @@
 
 ---
 
-### 🏭 Microsoft Fabric Stock Market Intelligence Platform - &nbsp;·&nbsp; 📁 [View on GitHub](https://github.com/akashpshaw524/Fabric-Stock-Market-Intel)
+### 🏭 Microsoft Fabric Stock Market Intelligence Platform - &nbsp;·&nbsp; 📁 [Poject Link](https://github.com/akashpshaw524/Fabric-Stock-Market-Intel)
 > End-to-end Data Engineering solution built on Microsoft Fabric
 
 - Designed **Bronze → Silver → Gold** Lakehouse architecture with Medallion pattern
@@ -83,7 +83,7 @@
 
 ---
 
-### 📈 NSE Stock Market SQL Analytics - &nbsp;·&nbsp; 📁 [View on GitHub](https://github.com/akashpshaw524/nse-analytics)
+### 📈 NSE Stock Market SQL Analytics - &nbsp;·&nbsp; 📁 [Project Link](https://github.com/akashpshaw524/nse-analytics)
 > 1-year analysis of 4 Nifty 50 stocks using advanced SQL — data sourced directly from NSE India
 
 - 988 rows · 247 trading days · 4 sectors · 11 business queries
@@ -95,7 +95,7 @@
 
 ---
 
-### 🍽️ Zomato Restaurant Analytics - &nbsp;·&nbsp; 📁 [View on GitHub](https://github.com/akashpshaw524/zomato-kolkata-market-analysis)
+### 🍽️ Zomato Restaurant Analytics - &nbsp;·&nbsp; 📁 [Project Link](https://github.com/akashpshaw524/zomato-kolkata-market-analysis)
 > EDA project on restaurant performance and customer behaviour across Indian cities
 
 - Data cleaning, feature analysis, trend identification
@@ -105,7 +105,7 @@
 
 ---
 
-### 💳 Credit Card Spending Analytics Dashboard - &nbsp;·&nbsp; 📁 [View on GitHub](https://github.com/akashpshaw524/Indian-15-Real-Credit-Card-Insights)
+### 💳 Credit Card Spending Analytics Dashboard - &nbsp;·&nbsp; 📁 [Project Link](https://github.com/akashpshaw524/Indian-15-Real-Credit-Card-Insights)
 
 > Interactive Power BI dashboard on customer spending behaviour
 
@@ -116,6 +116,9 @@
 ---
 
 ## 💼 Professional Background
+
+**Cyberspace Infosolution** *(June 2013 - May 2016)*
+Foundational role in client servicing and business operations — where a data-driven approach to problem solving began.
 
 **Tata Consultancy Services — Bloomberg Project** *(Dec 2016 – Aug 2018)*
 Processed and validated financial statements from global companies · Maintained data quality for institutional investor workflows · Supported Fortune 500 financial data operations
