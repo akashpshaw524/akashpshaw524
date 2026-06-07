@@ -1,27 +1,19 @@
-<!-- Terminal header SVG — upload terminal-header.svg to your repo first -->
-<img src="https://raw.githubusercontent.com/akashpshaw524/akashpshaw524/main/image.svg" alt="Terminal Header" width="100%"/>
-
+<!-- Terminal Header -->
+<img src="https://raw.githubusercontent.com/akashpshaw524/akashpshaw524/main/terminal-header.svg" alt="Terminal Header" width="100%"/>
 <br/>
-
-<h1 align="center">Hi, I'm Akash Shaw 👋</h1>
-
 <p align="center">
-  <b>Data Engineer · Data Analyst · Business Intelligence . Microsoft Fabric . SQL . Power BI . Pyspark</b><br/>
-  <i>Turning business problems into data solutions — one pipeline at a time.</i>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/akashshaw524/">
+  <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/>
   </a>
-  <a href="mailto:akash.pshaw524@gmail.com">
-    <img src="https://img.shields.io/badge/Email-akash.pshaw524@gmail.com-EA4335?style=flat-square&logo=gmail"/>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square&logo=gmail"/>
   </a>
   <a href="https://github.com/akashpshaw524">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github"/>
   </a>
   <img src="https://img.shields.io/badge/Open%20To-Work-brightgreen?style=flat-square"/>
 </p>
+
 
 ---
 
