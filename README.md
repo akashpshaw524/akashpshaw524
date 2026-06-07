@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/akashshaw524/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/>
   </a>
-  <a href="akash.pshaw524@gmail.com">
+  <a href="mailto:akash.pshaw524@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square&logo=gmail"/>
   </a>
   <a href="https://github.com/akashpshaw524">
