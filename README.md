@@ -126,7 +126,7 @@ Managed 600+ UK and US property clients · Supported £50M+ in transactions · A
 
 ## 📬 Let's Connect
 
-If you're hiring for **Data Engineering, Data Analyst, or BI roles** — my work is all public, my background is real, and I'd like to talk.
+If you're hiring for **Data Analyst, Business Analyst or Data Engineering roles** — my work is all public, my background is real, and I'd like to talk.
 
 📧 akash.pshaw524@gmail.com &nbsp;·&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/akashshaw524/) &nbsp;·&nbsp; 💻 [GitHub](https://github.com/akashpshaw524)
 
